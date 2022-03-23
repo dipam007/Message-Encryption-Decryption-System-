@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711734905173",
+    "project_id": "message-encryption-syste-b31b8",
+    "storage_bucket": "message-encryption-syste-b31b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711734905173:android:4fb16473e3da3a8e1707dc",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711734905173-bbsbmfkq0urvu7pjakq7p63006qqd0as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webapp",
+            "certificate_hash": "bc482d721b99027042d0dcdca9890945b764cd2a"
+          }
+        },
+        {
+          "client_id": "711734905173-8a89jto5btnc8c22km4nor19pdb4r3pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9ypv52FV895HB0QFGOb5AAzijE_8qMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711734905173-8a89jto5btnc8c22km4nor19pdb4r3pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
