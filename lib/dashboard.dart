@@ -51,13 +51,13 @@ class _DashBoardState extends State<DashBoard> {
         title: Text("Dashboard",style: TextStyle(color: Colors.white),),
         centerTitle: true,
         actions: [
-          IconButton(
-            icon: Icon(Icons.wifi_tethering),
-            tooltip: "Fire Alarm",
-            onPressed: (){
-              // Navigator.of(context).push(MaterialPageRoute(builder: (context) => FireAlarm(uid: uid,)));
-            },
-          ),
+          // IconButton(
+          //   icon: Icon(Icons.wifi_tethering),
+          //   tooltip: "Fire Alarm",
+          //   onPressed: (){
+          //     // Navigator.of(context).push(MaterialPageRoute(builder: (context) => FireAlarm(uid: uid,)));
+          //   },
+          // ),
           IconButton(
             icon: Icon(Icons.call),
             tooltip: "Firesafety",
